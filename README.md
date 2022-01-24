@@ -7,7 +7,7 @@ docker run testcontainer:latest
 ```
 
 ## Reproduce the bug
-Comment out line 11 and uncomment line 13 in [this file](src/index.ts) and run the steps above again.
+Comment out [line 11](https://github.com/hrueger/playwright-issue-11566/blob/ce4e967fa21ac1164f02ae6a6434fb71a260f977/src/index.ts#L11) and uncomment [line 13](https://github.com/hrueger/playwright-issue-11566/blob/ce4e967fa21ac1164f02ae6a6434fb71a260f977/src/index.ts#L13) in [src/index.ts](src/index.ts) and run the steps above again.
 
 Chromium produces this:
 ```

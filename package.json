@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrueger/polaywright-issue-11566.git"
+    "url": "git+https://github.com/hrueger/playwright-issue-11566.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hrueger/polaywright-issue-11566/issues"
+    "url": "https://github.com/hrueger/playwright-issue-11566/issues"
   },
-  "homepage": "https://github.com/hrueger/polaywright-issue-11566#readme",
+  "homepage": "https://github.com/hrueger/playwright-issue-11566#readme",
   "dependencies": {
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
